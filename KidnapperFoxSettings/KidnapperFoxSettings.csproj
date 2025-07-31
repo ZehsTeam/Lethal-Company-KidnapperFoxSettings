@@ -39,7 +39,7 @@
   </ItemGroup>
   
   <PropertyGroup>
-    <PluginsFolder>D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins</PluginsFolder>
+    <PluginsFolder>C:\Users\em\AppData\Roaming\com.kesomannen.gale\lethal-company\profiles\foxtest\BepInEx\plugins\Zehs-KidnapperFoxSettings</PluginsFolder>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <GenerateDocumentationFile>False</GenerateDocumentationFile>
 	</PropertyGroup>
